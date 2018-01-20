@@ -8,7 +8,7 @@
   },
   "bin": "./cli.js",
   "dependencies": {
-    "bootstrap": "^3.3.2",
+    "bootstrap": "^4.0.0",
     "browser-request": "^0.3.3",
     "classnames": "^1.1.4",
     "commander": "^2.9.0",
